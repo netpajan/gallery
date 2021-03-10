@@ -77,5 +77,14 @@
       "path": "./photos/Coursework/20200415_171915_edited.jpg"
     }
   ],
-  "Exhibition Work": []
+  "Exhibition Work": [
+    {
+      "height": 717,
+      "compressed_path": "./photos/Exhibition Work/75225a_03202ee1f24f4f528e8bf2a554549b10_mv2.min.png",
+      "width": 403,
+      "compressed": false,
+      "placeholder_path": "./photos/Exhibition Work/75225a_03202ee1f24f4f528e8bf2a554549b10_mv2.placeholder.png",
+      "path": "./photos/Exhibition Work/75225a_03202ee1f24f4f528e8bf2a554549b10_mv2.png"
+    }
+  ]
 }
