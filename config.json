@@ -9,20 +9,20 @@
       "path": "./photos/Personal Creations/Miles_final.jpg"
     },
     {
-      "height": 1580,
-      "compressed_path": "./photos/Personal Creations/_20180815_215025_edited.min.jpg",
-      "width": 1495,
-      "compressed": false,
-      "placeholder_path": "./photos/Personal Creations/_20180815_215025_edited.placeholder.jpg",
-      "path": "./photos/Personal Creations/_20180815_215025_edited.jpg"
-    },
-    {
       "height": 2355,
-      "compressed_path": "./photos/Personal Creations/_20181107_210745_edited.min.jpg",
+      "compressed_path": "./photos/Personal Creations/personal_creation_2.min.png",
       "width": 1511,
       "compressed": false,
-      "placeholder_path": "./photos/Personal Creations/_20181107_210745_edited.placeholder.jpg",
-      "path": "./photos/Personal Creations/_20181107_210745_edited.jpg"
+      "placeholder_path": "./photos/Personal Creations/personal_creation_2.placeholder.png",
+      "path": "./photos/Personal Creations/personal_creation_2.png"
+    },
+    {
+      "height": 1580,
+      "compressed_path": "./photos/Personal Creations/personal_creation_1.min.png",
+      "width": 1495,
+      "compressed": false,
+      "placeholder_path": "./photos/Personal Creations/personal_creation_1.placeholder.png",
+      "path": "./photos/Personal Creations/personal_creation_1.png"
     }
   ],
   "Textbook Illustrations": [
